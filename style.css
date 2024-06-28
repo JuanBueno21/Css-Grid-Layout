@@ -11,6 +11,7 @@ body {
     background-image: linear-gradient(to right bottom, #ffffff, #b9b9b9, #777777, #3b3b3b, #000000);
     margin: 0;
     height: 100vh;
+    /* grid-template-columns: repeat(auto-fit, minmax(100px, 1fr)); */
 }
 
 .container {
